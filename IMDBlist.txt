@@ -1,0 +1,92 @@
+Title:Crash
+Year:2004
+Director:Paul Haggis
+Actors:Don Cheadle, Sandra Bullock, Thandie Newton, Karina Arroyave
+Rating:8.0
+**************
+Title:Hall Pass
+Year:2011
+Director:Bobby Farrelly, Peter Farrelly
+Actors:Owen Wilson, Jason Sudeikis, Christina Applegate, Jenna Fischer
+Rating:6.0
+**************
+Title:Savage Grace
+Year:2007
+Director:Tom Kalin
+Actors:Julianne Moore, Eddie Redmayne, Stephen Dillane, Anne Reid
+Rating:5.7
+**************
+Title:Babel
+Year:2006
+Director:Alejandro González Iñárritu
+Actors:Brad Pitt, Cate Blanchett, Gael García Bernal, Mohamed Akhzam
+Rating:7.6
+**************
+Title:Faithful
+Year:1996
+Director:Paul Mazursky
+Actors:Cher, Chazz Palminteri, Ryan O'Neal, Paul Mazursky
+Rating:5.7
+**************
+Title:The Flock
+Year:2007
+Director:Wai-keung Lau
+Actors:Richard Gere, Claire Danes, KaDee Strickland, Ray Wise
+Rating:5.7
+**************
+Title:Horrible Bosses
+Year:2011
+Director:Seth Gordon
+Actors:Jason Bateman, Charlie Day, Jason Sudeikis, P.J. Byrne
+Rating:7.1
+**************
+**************
+Title:Hot Shots! Part Deux
+Year:1993
+Director:Jim Abrahams
+Actors:Charlie Sheen, Lloyd Bridges, Valeria Golino, Richard Crenna
+Rating:6.3
+**************
+**************
+Title:Paranormal Activity
+Year:2007
+Director:Oren Peli
+Actors:Katie Featherston, Micah Sloat, Mark Fredrichs, Amber Armstrong
+Rating:6.5
+**************
+Title:Regarding Henry
+Year:1991
+Director:Mike Nichols
+Actors:Harrison Ford, Annette Bening, Michael Haley, Stanley Swerdlow
+Rating:6.5
+**************
+Title:Remember the Titans
+Year:2000
+Director:Boaz Yakin
+Actors:Denzel Washington, Will Patton, Wood Harris, Ryan Hurst
+Rating:7.5
+**************
+Title:Requiem for a Dream
+Year:2000
+Director:Darren Aronofsky
+Actors:Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans
+Rating:8.5
+**************
+Title:The Perfect Storm
+Year:2000
+Director:Wolfgang Petersen
+Actors:George Clooney, Mark Wahlberg, Diane Lane, John C. Reilly
+Rating:6.2
+**************
+Title:The Scorpion King 3: Battle for Redemption
+Year:2012
+Director:Roel Reiné
+Actors:Dave Bautista, Bostin Christopher, Tanapol Chuksrida, Kevin 'Kimbo Slice' Ferguson
+Rating:3.6
+**************
+Title:The Bucket List
+Year:2007
+Director:Rob Reiner
+Actors:Jack Nicholson, Morgan Freeman, Sean Hayes, Beverly Todd
+Rating:7.4
+**************
